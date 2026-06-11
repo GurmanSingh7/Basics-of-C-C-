@@ -19,6 +19,7 @@ int main(){
     return 0;
 }
 
+
 //Pallindrome of a number
 
 #include<stdio.h>
