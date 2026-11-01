@@ -1,9 +1,8 @@
-//Reverse of a number 
+//Reverse of a number :
 
 #include<stdio.h>
 int main()
 {
-     
     int n ;  
     scanf("%d",&n); 
     
@@ -22,13 +21,13 @@ int main()
 }
 
 
-//Pallindrome of a number
+//Pallindrome of a number :
 
 #include<stdio.h>
 
 int main()
 {
-    int n ;
+    int n;
     
     scanf("%d",&n);
     
